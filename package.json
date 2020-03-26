@@ -1,11 +1,19 @@
 {
   "name": "xk-toast",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "simple xktoast",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "onion",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oneion/xk-tast.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oneion/xk-tast/issues"
+  },
+  "homepage": "https://github.com/oneion/xk-tast#readme"
 }
